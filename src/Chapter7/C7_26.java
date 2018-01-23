@@ -41,7 +41,15 @@ public class C7_26 {
             System.out.println("Two lists are not strictly identical.");
         }
     }
-
+/**
+ * Method to check if the given lists equal.
+ * 
+ * @param list1 first given list
+ * @param list2 second given list
+ * @param length1 the length of the first list
+ * @param length2 the length of the second list
+ * @return the answer to if the lists equal or not
+ */
     public static boolean equals(int[] list1, int[] list2, int length1, int length2) {
         boolean answer = false;
         int constant = 0;
