@@ -3,14 +3,16 @@ package Chapter5;
 import java.util.Scanner;
 
 /**
- * Program to count up votes and to later show the amounts of votes when the user states that there is no more votes to add.
- * 
+ * Program to count up votes and to later show the amounts of votes when the
+ * user states that there is no more votes to add.
+ *
  * @author Alex Jasso
  */
 public class P5 {
+
     /**
      * Main Method
-     * 
+     *
      * @param args arguments from command line prompt
      */
     public static void main(String[] args) {

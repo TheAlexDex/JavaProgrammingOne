@@ -27,11 +27,13 @@ public class C7_9 {
         double minimum = min(numbers);
         System.out.println("The minimum number is: " + minimum);
     }
-/**
- * Method to find the minimum of the given array
- * @param array the given array
- * @return the minimum of the array
- */
+
+    /**
+     * Method to find the minimum of the given array
+     *
+     * @param array the given array
+     * @return the minimum of the array
+     */
     public static double min(double[] array) {
         double minimum = array[0];
         int constant = 0;

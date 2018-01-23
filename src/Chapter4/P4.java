@@ -5,13 +5,14 @@ import java.text.*;
 
 /**
  * Program to print out the info for an employee.
- * 
+ *
  * @author Alex Jasso
  */
 public class P4 {
-	/**
+
+    /**
      * Main Method
-     * 
+     *
      * @param args arguments from command line prompt.
      */
     public static void main(String[] args) {

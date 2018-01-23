@@ -4,13 +4,14 @@ import java.util.Scanner;
 
 /**
  * Program to reverse a given string.
- * 
+ *
  * @author Alex Jasso
  */
 public class C5_46 {
+
     /**
      * Main Method
-     * 
+     *
      * @param args arguments from command line prompt
      */
     public static void main(String[] args) {

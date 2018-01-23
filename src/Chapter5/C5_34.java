@@ -3,14 +3,16 @@ package Chapter5;
 import java.util.Scanner;
 
 /**
- * Program to ask for input and return if the user won, lost, or tied in a game of Rock, Paper, Scissors.
- * 
+ * Program to ask for input and return if the user won, lost, or tied in a game
+ * of Rock, Paper, Scissors.
+ *
  * @author Alex Jasso
  */
 public class C5_34 {
+
     /**
      * Main Method
-     * 
+     *
      * @param args arguments from command line prompt
      */
     public static void main(String[] args) {
