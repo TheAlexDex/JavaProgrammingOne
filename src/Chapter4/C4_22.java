@@ -4,13 +4,14 @@ import java.util.Scanner;
 
 /**
  * Program to state is a string is a substring of another string.
- * 
+ *
  * @author Alex Jasso
  */
 public class C4_22 {
+
     /**
      * Main Method
-     * 
+     *
      * @param args arguments from command line prompt.
      */
     public static void main(String[] args) {

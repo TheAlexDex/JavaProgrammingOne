@@ -4,13 +4,14 @@ import java.util.Scanner;
 
 /**
  * Program to print out the info for an employee.
- * 
+ *
  * @author Alex Jasso
  */
 public class C4_23 {
-	/**
+
+    /**
      * Main Method
-     * 
+     *
      * @param args arguments from command line prompt.
      */
     public static void main(String[] args) {
